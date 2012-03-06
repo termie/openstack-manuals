@@ -3,7 +3,6 @@ Openstack Manuals
 
 This repository contains the cloud administrator documentation for the
 OpenStack project. It includes documentation for:
-
  * OpenStack Compute
  * OpenStack Identity Service
  * OpenStack Image Service
