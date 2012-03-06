@@ -15,8 +15,8 @@ For more details, see the `OpenStack Documentation HowTo wiki page
 
 In addtion to the guides, this repository contains:
 
- * api.openstack.org: `doc/src/docbkx/openstack-api-site`
- * docs.openstack.org: `www`
+ * api.openstack.org: ``doc/src/docbkx/openstack-api-site``
+ * docs.openstack.org: ``www``
 
 
 Prerequisites
