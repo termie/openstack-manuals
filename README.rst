@@ -31,19 +31,20 @@ To install Maven for Ubuntu::
 
 Building
 ========
-To build the Compute Admin Manual, Object Storage Admin Manual, and Image
-Service Manual::
+To build the *Compute Admin Manual*, *Object Storage Admin Manual*, and
+*Image Service Manual*::
 
     cd openstack-manuals/doc
     mvn clean generate-sources
 
-The different manuals are in subdirectories of the `openstack-manuals/doc/src/docbkx` directory.
+The different manuals are in subdirectories of the
+``openstack-manuals/doc/src/docbkx`` directory.
 
 For example, the root directory of the *OpenStack Compute Administration Guide*
-is `openstack-manuals/doc/src/docbkx/openstack-compute-admin`.
+is ``openstack-manuals/doc/src/docbkx/openstack-compute-admin``.
 
 To build a specific guide, look for a pom.xml file within a subdirectory, then
-run the `mvn` command in that directory. For example::
+run the ``mvn`` command in that directory. For example::
 
     cd openstack-manuals/doc/src/docbkx/openstack-compute-admin
     mvn clean generate-sources
@@ -63,7 +64,7 @@ Our community welcomes all people interested in open source cloud computing,
 and there are no formal membership requirements. The best way to join the
 community is to talk with others online or at a meetup and offer contributions
 through Launchpad, the `OpenStack wiki <http://wiki.openstack.org>`, blogs,
-or on IRC at `#openstack` on `irc.freenode.net`.
+or on IRC at ``#openstack`` on ``irc.freenode.net``.
 
 We welcome all types of contributions, from blueprint designs to documentation
 to testing to deployment scripts.
