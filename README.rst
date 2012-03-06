@@ -63,7 +63,7 @@ Contributing
 Our community welcomes all people interested in open source cloud computing,
 and there are no formal membership requirements. The best way to join the
 community is to talk with others online or at a meetup and offer contributions
-through Launchpad, the `OpenStack wiki <http://wiki.openstack.org>`, blogs,
+through Launchpad, the `OpenStack wiki <http://wiki.openstack.org>`_, blogs,
 or on IRC at ``#openstack`` on ``irc.freenode.net``.
 
 We welcome all types of contributions, from blueprint designs to documentation
